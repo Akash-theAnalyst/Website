@@ -3544,7 +3544,7 @@ input::-moz-focus-inner {
     margin-bottom: 0;
     position: relative;
 }
-/*
+
 .s-hero__content h1::before {
     display: block;
     content: "";
@@ -3553,12 +3553,12 @@ input::-moz-focus-inner {
     background-image: url(../images/dots.svg);
     -webkit-transform: translateX(-4rem);
     transform: translateX(-4rem);
-    opacity: .05;
+    opacity: 0;
     position: absolute;
     bottom: .14em;
     right: 100%;
 }
-*/
+
 /* hero content about
  * ----------------------------------------------- */
 .s-hero__content-about {
@@ -4016,19 +4016,19 @@ html.no-csstransitions .s-hero__content {
     padding-bottom: 0;
     position: relative;
 }
-/*
+
 .s-about::before {
     content: "";
     display: block;
     width: 28rem;
     height: 17.6rem;
     background-image: url(../images/dots.svg);
-    opacity: .05;
+    opacity: 0;
     position: absolute;
     top: 0;
     left: 50%;
 }
-*/
+
 .s-about .horizontal-line {
     width: 32px;
     height: 20rem;
