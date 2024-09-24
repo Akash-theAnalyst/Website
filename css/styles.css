@@ -3544,7 +3544,7 @@ input::-moz-focus-inner {
     margin-bottom: 0;
     position: relative;
 }
-
+/*
 .s-hero__content h1::before {
     display: block;
     content: "";
@@ -3558,7 +3558,7 @@ input::-moz-focus-inner {
     bottom: .14em;
     right: 100%;
 }
-
+*/
 /* hero content about
  * ----------------------------------------------- */
 .s-hero__content-about {
@@ -4016,7 +4016,7 @@ html.no-csstransitions .s-hero__content {
     padding-bottom: 0;
     position: relative;
 }
-
+/*
 .s-about::before {
     content: "";
     display: block;
@@ -4028,7 +4028,7 @@ html.no-csstransitions .s-hero__content {
     top: 0;
     left: 50%;
 }
-
+*/
 .s-about .horizontal-line {
     width: 32px;
     height: 20rem;
